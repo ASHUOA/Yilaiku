@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xlistview/Xlistview.iml" filepath="$PROJECT_DIR$/Xlistview/Xlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yilaiku.iml" filepath="$PROJECT_DIR$/Yilaiku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duocengjiazai/duocengjiazai.iml" filepath="$PROJECT_DIR$/duocengjiazai/duocengjiazai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/more知识/more知识.iml" filepath="$PROJECT_DIR$/more知识/more知识.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiangmu/xiangmu.iml" filepath="$PROJECT_DIR$/xiangmu/xiangmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuekao练习/yuekao练习.iml" filepath="$PROJECT_DIR$/yuekao练习/yuekao练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhou3/zhou3.iml" filepath="$PROJECT_DIR$/zhou3/zhou3.iml" />
+    </modules>
+  </component>
+</project>
